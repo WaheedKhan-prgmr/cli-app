@@ -1,0 +1,2 @@
+# Currently empty for pure Python.
+# Future use: `click`, `rich`, etc.
